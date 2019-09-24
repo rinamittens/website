@@ -1,0 +1,14 @@
+.banners{
+  background: #FDFDFD;
+  padding-top: 5%;
+  padding-left: 33%
+}
+
+.bannersScript{
+  padding-left: 11.5%
+}
+
+img{
+  max-height: 700px;
+  max-width: 500px
+}

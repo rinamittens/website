@@ -12,7 +12,7 @@ import NavBar from './components/NavBar.js'
 function App() {
     return (
       <div className="App">
-
+      <NavBar />
         <Switch>
           <Route exact path='/' component={Home} />
           <Route path='/about' component={About} />
