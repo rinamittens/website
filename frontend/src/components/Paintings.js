@@ -10,6 +10,9 @@ const Paintings = (props) => {
       <li><img src={require("../media/Paintings/Paint 2.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/Paint 3.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/Paint 4.jpg")} alt='paint1'></img></li>
+      <li><img src={require("../media/Paintings/Listening for the Sea.jpg")} alt='paint1'></img></li>
+      <li><img src={require("../media/Paintings/Cookie Monster.jpg")} alt='paint1'></img></li>
+      <li><img src={require("../media/Paintings/Patience.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/Paint 5.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/Paint 6.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/Paint 7.jpg")} alt='paint1'></img></li>
