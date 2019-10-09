@@ -19,6 +19,7 @@ function App() {
           <Route path='/banners' component={Banners} />
           <Route path='/paintings' component={Paintings} />
           <Route path='/drawings' component={Drawings} />
+
         </Switch>
       </div>
     )
@@ -26,3 +27,5 @@ function App() {
 }
 
 export default App;
+
+// <Route path='/paintings/:id' component={SinglePainting} />

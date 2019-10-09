@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway|Roboto|Roboto+Mono&display=swap');
+
 .paintings{
   background: #FDFDFD;
   padding-top: 5%;
@@ -8,8 +10,42 @@
   padding-left: 13%
 }
 
+.paintScript2{
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  /* font-family: 'Raleway', sans-serif; */
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  font-size: 17px
+}
+
+.paintScript3{
+  /* font-family: 'Open Sans', sans-serif; */
+  /* font-family: 'Roboto', sans-serif; */
+  font-family: 'Raleway', sans-serif;
+  /* font-family: 'Roboto Mono', monospace; */
+  text-align: center;
+  font-size: 17px
+}
+
+.paintScript4{
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Roboto', sans-serif;
+  /* font-family: 'Raleway', sans-serif; */
+  /* font-family: 'Roboto Mono', monospace; */
+  text-align: center;
+  font-size: 17px
+}
+
+
+
+
 li img{
   max-height: 700px;
+  width: 500px
+}
+
+li {
   width: 500px
 }
 

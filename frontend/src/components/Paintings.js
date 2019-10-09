@@ -7,8 +7,11 @@ const Paintings = (props) => {
       <h1 className="paintScript"><img src={require("../media/script/Paintings.png")} alt='paintings'></img></h1>
       <ul className="paintList">
       <li><img src={require("../media/Paintings/Paint 1.jpg")} alt='paint1'></img></li>
+      <li><p className="paintScript2">"Worm Contemplates Mountain", Oil on canvas on panel, 30" x 24" </p></li>
       <li><img src={require("../media/Paintings/Paint 2.jpg")} alt='paint1'></img></li>
+      <li><p className="paintScript3">"Medusa", Oil on canvas on panel, 24" x 24" </p></li>
       <li><img src={require("../media/Paintings/Paint 3.jpg")} alt='paint1'></img></li>
+      <li><p className="paintScript4">"Portrait of Jukay and his Mother", Oil on canvas on panel, 30" x 24" </p></li>
       <li><img src={require("../media/Paintings/Paint 4.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/Listening for the Sea.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/Cookie Monster.jpg")} alt='paint1'></img></li>
