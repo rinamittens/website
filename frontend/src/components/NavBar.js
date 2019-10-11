@@ -6,7 +6,7 @@ const NavBar = (props) => {
   return(
     <div className='navbar'>
     <div className="rinaImg">
-      <Link to='/'><img src={require("../media/script/rinalam.png")} alt='rinalam'></img></Link>
+      <Link to='/'><img src={require("../media/script2/RLG.png")} alt='rinalam'></img></Link>
     </div>
     </div>
   )

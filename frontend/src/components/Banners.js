@@ -4,7 +4,7 @@ import "../css/Banners.css"
 const Banners = (props) => {
   return (
     <div className='banners'>
-      <h1 className="bannersScript"><img src={require("../media/script/Banners.png")} alt='about'></img></h1>
+      <h1 className="bannersScript"><img src={require("../media/script2/Banners.png")} alt='about'></img></h1>
       <img src={require("../media/Banners/Banner 1.jpg")} alt='banner1'></img>
       <img src={require("../media/script/Banner 1 desc.png")} alt='banner2'></img>
       <img src={require("../media/Banners/Banner 2.jpg")} alt='banner2'></img>

@@ -8,16 +8,19 @@ function Home() {
       <div className="innerHome">
         <div>
             <div className="paintHome">
-              <Link to='/paintings'><img src={require("../media/script/Paintings.png")} alt='about'></img></Link>
+              <Link to='/paintings'><img src={require("../media/script2/Paintings.png")} alt='about'></img></Link>
             </div>
             <div>
-              <Link to='/drawings'><img src={require("../media/script/Drawings.png")} alt='about'></img></Link>
+              <Link to='/drawings'><img src={require("../media/script2/Drawings.png")} alt='about'></img></Link>
             </div>
             <div>
-              <Link to='/banners'><img src={require("../media/script/Banners.png")} alt='about'></img></Link>
+              <Link to='/banners'><img src={require("../media/script2/Banners.png")} alt='about'></img></Link>
+            </div>
+            <div>
+              <Link to='/collages'><img src={require("../media/script2/Collages.png")} alt='about'></img></Link>
             </div>
             <div className="aboutHome">
-              <Link to='/about'><img src={require("../media/script/about.png")} alt='about'></img></Link>
+              <Link to='/about'><img src={require("../media/script2/About.png")} alt='about'></img></Link>
             </div>
         </div>
       </div>
