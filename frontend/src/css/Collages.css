@@ -1,17 +1,17 @@
-.drawings{
-
+.collages{
   padding-top: 5%;
   padding-left: 31%
 }
 
-.drawScript{
+.collageScript{
   padding-left: 13%
 }
 
 li img{
+  max-height: 700px;
   width: 500px
 }
 
-.drawList{
+.collageList{
   list-style: none;
 }
