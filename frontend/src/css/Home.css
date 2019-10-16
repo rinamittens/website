@@ -32,31 +32,31 @@
 } */
 
 .paintHome img{
-  max-width: 86%;
-  padding-left: 7%;
-  padding-right: 7%
+  max-width: 70%;
+  padding-left: 15.5%;
+  padding-right: 14.5%
 }
 
 .drawHome img{
-  max-width: 86%;
-  padding-left: 7%;
-  padding-right: 7%
+  max-width: 70%;
+  padding-left: 14.5%;
+  padding-right: 15.5%
 }
 
 .bannerHome img{
-  max-width: 86%;
-  padding-left: 7%;
-  padding-right: 7%
+  max-width: 70%;
+  padding-left: 14%;
+  padding-right: 16%
 }
 
 .collageHome img{
-  max-width: 86%;
-  padding-left: 7%;
-  padding-right: 7%
+  max-width: 70%;
+  padding-left: 14.5%;
+  padding-right: 15.5%
 }
 
 .aboutHome img{
-  max-width: 86%;
-  padding-left: 7%;
-  padding-right: 7%
+  max-width: 64%;
+  padding-left: 10%;
+  padding-right: 26%
 }

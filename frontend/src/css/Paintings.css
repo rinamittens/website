@@ -2,12 +2,15 @@
 
 .paintings{
 
-  padding-top: 5%;
-  padding-left: 31%
+  padding-top: 7%;
+  padding-left: 31%;
+  padding-right: 31%
 }
 
-.paintScript{
-  padding-left: 13%
+.paintScript img{
+  width: 70%;
+  padding-left: 17%;
+  padding-right: 13%
 }
 
 .paintScript2{

@@ -4,7 +4,7 @@ import "../css/Paintings.css"
 const Paintings = (props) => {
   return (
     <div className='paintings'>
-      <h1 className="paintScript"><img src={require("../media/script2/Paintings.png")} alt='paintings'></img></h1>
+      <div className="paintScript"><img src={require("../media/script2/Paintings.png")} alt='paintings'></img></div>
       <ul className="paintList">
       <li><img src={require("../media/Paintings/1. Mountain.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/2. Medusa.jpg")} alt='paint1'></img></li>
