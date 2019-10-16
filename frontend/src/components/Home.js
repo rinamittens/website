@@ -6,7 +6,7 @@ function Home() {
   return (
     <div className="home">
       <div className="innerHome">
-        <div>
+        <div >
             <div className="paintHome">
               <Link to='/paintings'><img src={require("../media/script2/Paintings.png")} alt='about'></img></Link>
             </div>

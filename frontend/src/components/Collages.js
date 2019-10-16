@@ -4,7 +4,7 @@ import "../css/Collages.css"
 const Collages = (props) => {
   return (
     <div className='collages'>
-    <h1 className="collageScript"><img src={require("../media/script2/Collages.png")} alt='collagesimg'></img></h1>
+    <div className="collageScript"><img src={require("../media/script2/Collages.png")} alt='collagesimg'></img></div>
     <ul className="collageList">
     <li><img src={require("../media/Collages/Dog Bride 1.JPG")} alt='drawing1'></img></li>
     <li><img src={require("../media/Collages/Dog Bride 2.JPG")} alt='drawing2'></img></li>
