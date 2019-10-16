@@ -8,6 +8,9 @@
 
 }
 
-.rinaImg{
+.rinaImg img{
   display: flex;
+  max-width: 42%;
+  padding-left: 2%;
+  padding-right: 56%
 }

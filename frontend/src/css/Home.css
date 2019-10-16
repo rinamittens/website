@@ -5,13 +5,58 @@
 
 .innerHome{
   padding-top: 15%;
-  padding-left: 40%
+  padding-left: 34%;
+  padding-right: 34%
 }
 
-.paintHome{
-  padding-left: 1.3%
+/* .paintHome{
+  padding-left: 7%;
+  padding-right: 7%
+
+}
+
+.drawHome{
+  padding-left: 11.4%
+}
+
+.bannerHome{
+  padding-left: 10.9%
+}
+
+.collageHome{
+  padding-left: 11.1%
 }
 
 .aboutHome{
-  padding-left: 1%
+  padding-left: 8.1%
+} */
+
+.paintHome img{
+  max-width: 86%;
+  padding-left: 7%;
+  padding-right: 7%
+}
+
+.drawHome img{
+  max-width: 86%;
+  padding-left: 7%;
+  padding-right: 7%
+}
+
+.bannerHome img{
+  max-width: 86%;
+  padding-left: 7%;
+  padding-right: 7%
+}
+
+.collageHome img{
+  max-width: 86%;
+  padding-left: 7%;
+  padding-right: 7%
+}
+
+.aboutHome img{
+  max-width: 86%;
+  padding-left: 7%;
+  padding-right: 7%
 }
