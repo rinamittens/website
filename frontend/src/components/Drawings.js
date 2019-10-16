@@ -12,13 +12,13 @@ const Drawings = (props) => {
     <li><img src={require("../media/Descriptions/Drawings/InhaleBlue.png")} alt='banner2'></img></li>
     <li><img src={require("../media/Drawings/3. Sweet 'n low installation shot.jpg")} alt='drawing3'></img></li>
     <li><img src={require("../media/Descriptions/Drawings/SweetNLow.png")} alt='banner2'></img></li>
-    <li><img src={require("../media/Drawings/6. SweetnLow2.JPG")} alt='drawing4'></img></li>
-    <li><img src={require("../media/Drawings/6. SweetnLow3.JPG")} alt='drawing5'></img></li>
-    <li><img src={require("../media/Drawings/6. SweetnLow4.JPG")} alt='drawing1'></img></li>
-    <li><img src={require("../media/Drawings/6. SweetnLow5.JPG")} alt='drawing1'></img></li>
+    <li className="needGap"><img src={require("../media/Drawings/6. SweetnLow2.JPG")} alt='drawing4'></img></li>
+    <li className="needGap"><img src={require("../media/Drawings/6. SweetnLow3.JPG")} alt='drawing5'></img></li>
+    <li className="needGap"><img src={require("../media/Drawings/6. SweetnLow4.JPG")} alt='drawing1'></img></li>
+    <li className="needGap"><img src={require("../media/Drawings/6. SweetnLow5.JPG")} alt='drawing1'></img></li>
     <li><img src={require("../media/Drawings/7. Diana diptych.jpg")} alt='drawing1'></img></li>
     <li><img src={require("../media/Descriptions/Drawings/Artemis.png")} alt='banner2'></img></li>
-    <li><img src={require("../media/Drawings/8. Diana diptych 1.jpg")} alt='drawing1'></img></li>
+    <li className="needGap"><img src={require("../media/Drawings/8. Diana diptych 1.jpg")} alt='drawing1'></img></li>
     <li><img src={require("../media/Drawings/9. Diana diptych 2.jpg")} alt='drawing1'></img></li>
     </ul>
     </div>

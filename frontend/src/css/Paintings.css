@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Raleway|Roboto|Roboto+Mono&display=swap');
 
 .paintings{
-
   padding-top: 7%;
   padding-left: 31%;
   padding-right: 31%
@@ -40,16 +39,14 @@
   font-size: 17px
 }
 
-
-
-
 li img{
-  max-height: 700px;
-  width: 500px
+  /* max-height: 700px; */
+  width: 98.5%;
+  /* width: 500px */
 }
 
 li {
-  width: 500px
+  /* width: 500px */
 }
 
 .paintList{

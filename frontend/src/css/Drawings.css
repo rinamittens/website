@@ -10,10 +10,14 @@
   padding-right: 13%
 }
 
-li img{
-  width: 500px
+ .drawList img{
+  width: 100%
 }
 
 .drawList{
   list-style: none;
+}
+
+.needGap{
+  padding-bottom: 1.5%
 }
