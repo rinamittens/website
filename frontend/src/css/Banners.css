@@ -1,14 +1,19 @@
 .banners{
-
-  padding-top: 5%;
-  padding-left: 33%
+  padding-top: 7%;
+  padding-left: 30%;
+  padding-right: 30%
 }
 
-.bannersScript{
-  padding-left: 11.5%
+.bannersScript img{
+  width: 66%;
+  padding-left: 20%;
+  padding-right: 16%
 }
 
-img{
-  max-height: 700px;
-  max-width: 500px
+.bannerList{
+  list-style: none;
+}
+
+.bannerList img {
+  width: 100%
 }
