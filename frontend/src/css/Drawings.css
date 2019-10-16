@@ -1,11 +1,13 @@
 .drawings{
-
-  padding-top: 5%;
-  padding-left: 31%
+  padding-top: 7%;
+  padding-left: 31%;
+  padding-right: 31%
 }
 
-.drawScript{
-  padding-left: 13%
+.drawScript img{
+  width: 70%;
+  padding-left: 17%;
+  padding-right: 13%
 }
 
 li img{
