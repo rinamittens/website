@@ -8,9 +8,12 @@
 
 }
 
-.rinaImg img{
-  display: flex;
-  width: 42%;
+.navbar img{
+  width: 40%;
   padding-left: 1%;
-  padding-right: 56%
+  padding-right: 57%
+}
+
+#link {
+  width: 100%
 }

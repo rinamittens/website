@@ -5,9 +5,7 @@ import "../css/NavBar.css"
 const NavBar = (props) => {
   return(
     <div className='navbar'>
-    <div className="rinaImg">
-      <Link to='/'><img src={require("../media/script2/RLG.png")} alt='rinalam'></img></Link>
-    </div>
+      <Link to='/' id="link"><img src={require("../media/script2/RLG.png")} alt='rinalam'></img></Link>
     </div>
   )
 }
