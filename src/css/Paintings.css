@@ -4,18 +4,18 @@
 
 .paintings{
   padding-top: 7%;
-  margin-left: auto;
-  margin-right: auto;
+  padding-left: 31%;
+  padding-right: 31%
 }
 
 .paintScript img{
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  width: 70%;
+  padding-left: 17%;
+  padding-right: 13%
 }
 
 li img{
-  /* width: 98.5%; */
+  width: 98.5%;
 }
 
 .paintList{
