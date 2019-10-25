@@ -16,9 +16,6 @@ function Home() {
             <div className="bannerHome">
               <Link to='/banners'><img src={require("../media/script2/Banners.png")} alt='about'></img></Link>
             </div>
-            <div className="collageHome">
-              <Link to='/collages'><img src={require("../media/script2/Collages.png")} alt='about'></img></Link>
-            </div>
             <div className="aboutHome">
               <Link to='/about'><img src={require("../media/script2/About.png")} alt='about'></img></Link>
             </div>
@@ -29,3 +26,8 @@ function Home() {
 }
 
 export default Home;
+
+
+// <div className="collageHome">
+// <Link to='/collages'><img src={require("../media/script2/Collages.png")} alt='about'></img></Link>
+// </div>
