@@ -1,37 +1,12 @@
-.home{
-  height: 800px;
-
-}
+@media screen and (max-width: 1440px) {
 
 .innerHome{
   width: 32%;
   padding-top: 13%;
   padding-bottom: 10%;
-  padding-left: 34%;
-  padding-right: 34%
+  margin-left: auto;
+  margin-right: auto;
 }
-
-/* .paintHome{
-  padding-left: 7%;
-  padding-right: 7%
-
-}
-
-.drawHome{
-  padding-left: 11.4%
-}
-
-.bannerHome{
-  padding-left: 10.9%
-}
-
-.collageHome{
-  padding-left: 11.1%
-}
-
-.aboutHome{
-  padding-left: 8.1%
-} */
 
 .paintHome img{
   width: 70%;
@@ -61,4 +36,48 @@
   width: 64%;
   padding-left: 10.5%;
   padding-right: 25.5%
+}
+
+}
+
+@media screen and (max-width: 375px) {
+  
+  .innerHome{
+    width: 32%;
+    padding-top: 13%;
+    padding-bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .paintHome img{
+    width: 70%;
+    padding-left: 15.5%;
+    padding-right: 14.5%
+  }
+
+  .drawHome img{
+    width: 70%;
+    padding-left: 14.5%;
+    padding-right: 15.5%
+  }
+
+  .bannerHome img{
+    width: 70%;
+    padding-left: 14%;
+    padding-right: 16%
+  }
+
+  .collageHome img{
+    width: 70%;
+    padding-left: 14.7%;
+    padding-right: 15.3%
+  }
+
+  .aboutHome img{
+    width: 64%;
+    padding-left: 10.5%;
+    padding-right: 25.5%
+  }
+
 }
