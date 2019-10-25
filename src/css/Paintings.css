@@ -24,7 +24,7 @@ li img{
 
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 450px) {
 
 .paintings{
   padding-top: 12%;

@@ -21,7 +21,7 @@
 }
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 450px) {
 
 .navbar {
   position: fixed;
@@ -30,7 +30,7 @@
   /* display: flex; */
   width: 100%;
   background-color: #FFFFFF;
-  max-width: 375px
+  /* max-width: 375px */
 
 }
 
