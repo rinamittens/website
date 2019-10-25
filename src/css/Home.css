@@ -53,21 +53,21 @@
   .paintHome img{
     width: 70%;
     padding-left: 15.5%;
-    padding-right: 14.5%;
+    padding-right: auto;
     padding-bottom: 10%
   }
 
   .drawHome img{
     width: 70%;
-    padding-left: 14.5%;
-    padding-right: 15.5%;
+    padding-left: 15.6%;
+    padding-right: auto;
     padding-bottom: 10%
   }
 
   .bannerHome img{
     width: 70%;
-    padding-left: 14%;
-    padding-right: 16%;
+    padding-left: 16.3%;
+    padding-right: auto;
     padding-bottom: 10%
   }
 
@@ -80,8 +80,8 @@
 
   .aboutHome img{
     width: 64%;
-    padding-left: 10.5%;
-    padding-right: 25.5%
+    padding-left: 18%;
+    padding-right: auto
   }
 
 }
