@@ -35,9 +35,10 @@
 }
 
 .navbar img{
-  width: 50%;
-  margin-left: auto;
-  margin-right: auto;
+  width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 1%
 }
 
 }
