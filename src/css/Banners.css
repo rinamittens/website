@@ -6,14 +6,48 @@
 
 .bannersScript img{
   width: 66%;
-  padding-left: 20%;
-  padding-right: 16%
+  padding-left: 17.5%;
+  padding-right: 16.5%
 }
 
 .bannerList{
   list-style: none;
+  padding-left: 0
 }
 
 .bannerList img {
-  width: 100%
+  width: 86%;
+  padding-left: 7%;
+  padding-right: 7%
+}
+
+@media screen and (max-width: 450px) {
+.banners{
+  padding-top: 12%;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0
+}
+
+.bannersScript img{
+  width: 66%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 17%;
+  padding-right: 17%
+}
+
+.bannerList{
+  list-style: none;
+  padding-left: 0
+}
+
+.bannerList img {
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0
+}
+
 }
