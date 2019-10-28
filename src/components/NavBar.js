@@ -1,6 +1,9 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import "../css/NavBar.css"
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-NCTQD21PGF');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const NavBar = (props) => {
   return(

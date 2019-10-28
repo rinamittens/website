@@ -1,5 +1,8 @@
 import React from 'react'
 import "../css/Paintings.css"
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-NCTQD21PGF');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const Paintings = (props) => {
   return (

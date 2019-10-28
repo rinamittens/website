@@ -1,8 +1,12 @@
 import React from 'react'
 import "../css/About.css"
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-NCTQD21PGF');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 const About = (props) => {
   return (
+
     <div className='about'>
       <div className='aboutChild'>
           <div className="aboutScript"><img src={require("../media/script2/About.png")} alt='about'></img></div>
