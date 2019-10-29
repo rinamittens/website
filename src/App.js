@@ -10,6 +10,12 @@ import Drawings1 from './components/Drawings1.js'
 import Paintings from './components/Paintings.js'
 import Collages from './components/Collages.js'
 import NavBar from './components/NavBar.js'
+import ReactGA from 'react-ga';
+
+function initializeReactGA() {
+    ReactGA.initialize('UA-123791717-1');
+    ReactGA.pageview('/homepage');
+}
 
 function App() {
     return (
