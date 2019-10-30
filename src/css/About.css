@@ -48,6 +48,10 @@
   display: none
 }
 
+.tabletPortraitBio{
+  display: none;
+}
+
 @media screen and (max-width: 1100px) {
 
 .about{
@@ -56,12 +60,37 @@
   }
 
 .aboutScript img{
-    width: 44%;
+    width: 40%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 28%;
-    padding-right: 28%
+    padding-left: 30%;
+    padding-right: 30%
   }
+
+.tabletPortraitBio{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding-top: 2%
+}
+
+.tabletRinaPortrait{
+  width: 45%;
+  padding-left: 0%
+}
+
+#portraitTablet{
+  width: 100%
+}
+
+.tabletRinaBio{
+  width: 50%;
+  padding-top: 10%
+}
+
+.tabletRinaBio img{
+  width: 100%
+}
 
 .bioPortrait{
     display: flex;
@@ -69,7 +98,10 @@
   }
 
 .rinaPortrait{
-    width: 40%;
+    display: none;
+    grid-row: 1 / 7;
+    width: 45%;
+    margin: 0
     /* margin-left: auto;
     margin-right: auto; */
   }
@@ -79,7 +111,7 @@
   }
 
 .mobileRinaBio{
-    display: block;
+    display: none;
     width: 50%;
     margin-top: 7%;
     /* margin-left: auto;
@@ -94,6 +126,7 @@
   width: 39%;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 9%
 }
 
 #instagram{
@@ -104,7 +137,6 @@
 
 #linkedin{
     width: 90%;
-
   }
 
 #rinaBio{
@@ -176,6 +208,10 @@
   }
 
   #rinaBio{
+    display: none;
+  }
+
+  .tabletPortraitBio{
     display: none;
   }
 
