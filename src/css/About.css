@@ -170,13 +170,12 @@
     width: 90%;
     margin-left: auto;
     margin-right: auto;
+    display: flex;
   }
 
   #portrait{
     width: 100%;
   }
-
-
 
   .mobileRinaBio{
     display: block;
@@ -194,6 +193,7 @@
   width: 39%;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 2%
 }
 
   #instagram{
