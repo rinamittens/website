@@ -175,6 +175,8 @@
 
   #portrait{
     width: 100%;
+    height: auto;
+    
   }
 
   .mobileRinaBio{
