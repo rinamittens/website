@@ -8,7 +8,7 @@ const Paintings = (props) => {
       <div className="paintScript"><img src={require("../media/script2/Paintings.png")} alt='paintings'></img></div>
       <ul className="paintList">
       <li><img src={require("../media/Paintings/1. Mountain.jpg")} alt='paint1'></img></li>
-      <li><img src={require("../media/Paintings/2. Medusa.jpg")} alt='paint1'></img></li>
+      <li><img src={require("../media/Paintings/1a.medusalight.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/2. Medusa.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/3. Listening for the Sea.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/4. Cookie Monster.jpg")} alt='paint1'></img></li>
