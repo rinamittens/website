@@ -170,12 +170,12 @@
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-    display: flex;
+    display: block;
   }
 
   #portrait{
     width: 100%;
-    max-height: auto;
+    max-height: auto !important;
 
   }
 
