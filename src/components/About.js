@@ -10,7 +10,7 @@ const About = (props) => {
           <div className="aboutScript"><img src={require("../media/script2/About.png")} alt='about'></img></div>
 
             <div className="rinaPortrait">
-              <img id="portrait" src={require("../media/Descriptions/Face_Square2.jpg")} alt='facesquare'></img>
+              <img id="portrait" src={require("../media/Descriptions/eyecon.jpg")} alt='facesquare'></img>
               <img id="rinaBio" src={require("../media/Descriptions/RinaBio.png")} alt='bio' />
             </div>
             <div className="tabletPortraitBio">
