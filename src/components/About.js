@@ -15,7 +15,7 @@ const About = (props) => {
             </div>
             <div className="tabletPortraitBio">
               <div className="tabletRinaPortrait">
-                <img id="portraitTablet" src={require("../media/Descriptions/Face_Square.jpg")} alt='facesquare'></img>
+                <img id="portraitTablet" src={require("../media/Descriptions/eyecon.jpg")} alt='facesquare'></img>
               </div>
               <div className="tabletRinaBio">
                 <img src={require("../media/mobilebio/biopart1.png")} alt='bio' />
