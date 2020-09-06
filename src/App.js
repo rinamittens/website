@@ -28,7 +28,8 @@ function App() {
         </Switch>
       </div>
     )
-
-}
+    
+  }
+  initializeReactGA()
 
 export default App;
