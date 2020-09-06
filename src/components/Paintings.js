@@ -19,8 +19,6 @@ const Paintings = (props) => {
       <li><img src={require("../media/Paintings/8. Patience.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/9. Artemis Window.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/9. Jukay and His Mom.jpg")} alt='paint1'></img></li>
-      <li><img src={require("../media/Paintings/10. Pasta.jpg")} alt='paint1'></img></li>
-      <li><img src={require("../media/Paintings/11. Flowerama.jpg")} alt='paint1'></img></li>
       </ul>
     </div>
   )
