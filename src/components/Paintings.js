@@ -9,8 +9,9 @@ const Paintings = (props) => {
       <ul className="paintList">
       <li><img src={require("../media/Paintings/1. Mountain.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/1a.medusalight.jpg")} alt='paint1'></img></li>
-      <li><img src={require("../media/Paintings/2. Medusa.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/Medusa_Mirror_Resized.jpg")} alt='paint1'></img></li>
+      <li><img src={require("../media/Paintings/mudflap_mother_earth.jpg")} alt='paint1'></img></li>
+      <li><img src={require("../media/Paintings/2. Medusa.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/3a. Worm Pizza heart.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/4. Cookie Monster.jpg")} alt='paint1'></img></li>
       <li><img src={require("../media/Paintings/5. Worm Field.jpg")} alt='paint1'></img></li>
